@@ -90,8 +90,6 @@ class Control {
       left,
       right,
     };
-    // 运动开关
-    this.startMoving = false;
   }
 }
 
